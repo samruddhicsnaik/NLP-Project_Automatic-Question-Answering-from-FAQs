@@ -1,4 +1,5 @@
-# NLP-Project_Automatic-Question-Answering-from-FQAs
+# NLP Project 
+### Automatic Question Answering from FQAs
 Automatic Question Answering from FQAs using Word Embeddings
 
 
